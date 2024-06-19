@@ -1,0 +1,141 @@
+/*************************Class Selectors*************************************/
+.biography {
+  text-align: left;
+
+}
+
+.bio {
+  float: left;
+  margin-right: 50px;
+}
+
+.shift-left {
+  position: relative;
+  right: 20px;
+}
+
+.container-fluid {
+  padding: 2% 7% 7%;
+}
+
+.font-change {
+  font-size: 0.75em;
+}
+
+.header-adjust {
+  text-align: center;
+}
+
+.shift {
+  margin-top: 3%;
+}
+
+.shifting {
+  margin-top: 0.5%;
+}
+
+.shift-up {
+  margin-top: 0;
+}
+
+.clean {
+  text-decoration: none;
+}
+
+.spacing {
+  padding-left: 3%;
+}
+
+.space {
+  padding-left: 1%
+}
+
+.check {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.column {
+  padding-right: 5%;
+  margin-bottom: 5%;
+
+}
+
+.calm-down {
+  width: 2em;
+  height: 2em;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.unseen {
+  opacity: 0;
+}
+
+.und {
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.left-panel,
+.right-panel {
+  padding: 20px;
+}
+
+.left-panel {
+  flex: 1;
+  border-right: 1px solid #ccc;
+}
+
+.right-panel {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.toggle {
+  margin-bottom: 20px;
+}
+.second-toggle{
+  margin-bottom: 20px;
+}
+.item-list {
+  list-style-type: none;
+  padding: 0;
+  display:block;
+}
+
+.item-list p {
+  margin-top: 10px;
+}
+
+/************************* Selectors*************************************/
+body {
+  background-color: #FFE194;
+  font-family: "Lato", sans-serif;
+  margin-left: 10px;
+}
+
+
+
+h1 {
+  font-size: 2.4em;
+  font-family: "Dosis", sans-serif;
+}
+
+header {
+  background-color: #E8F6EF;
+}
+
+
+ul {
+  margin-top: 1.5%;
+}
+
+hr {
+  margin-top: 3em;
+}
